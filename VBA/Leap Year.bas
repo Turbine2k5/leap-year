@@ -3,7 +3,7 @@ Option Base 1
 
 Sub LeapYear()
 
-Dim years(5) As Integer, y As Variant, isLeapYear(5) As String, result As String
+Dim years(5) As Integer, isLeapYear(5) As String, result As String
 
 years(1) = 1900
 years(2) = 2000
